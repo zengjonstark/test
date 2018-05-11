@@ -8,3 +8,4 @@ else
 	useradd $user
 	echo "$user创建成功"
 fi
+echo "git"
